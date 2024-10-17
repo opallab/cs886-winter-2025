@@ -12,8 +12,8 @@ Learning from multi-modal datasets is currently one of the most prominent topics
 One of the most prominent and principled ways of handling such multi-modal data for downstream tasks such as node classification is graph neural networks. Graph neural network models can mix hand-crafted or automatically learned attributes of the nodes while taking into account relational information among the nodes. Therefore, the output vector representation of the graph neural network contains global and local information about the nodes. This contrasts with neural networks that only learn from the attributes of entities.
 
 **Topics** 
-1. Generalization performance
-2. Expressive power of graph neural networks
+1. Generalization performance of graph neural networks
+2. Expressive power
 4. Large language models and graphs
 5. Neural algorithmic reasoning
 6. Generative graph neural networks
