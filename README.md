@@ -12,18 +12,26 @@ Learning from multi-modal datasets is currently one of the most prominent topics
 One of the most prominent and principled ways of handling such multi-modal data for downstream tasks such as node classification is graph neural networks. Graph neural network models can mix hand-crafted or automatically learned attributes of the nodes while taking into account relational information among the nodes. Therefore, the output vector representation of the graph neural network contains global and local information about the nodes. This contrasts with neural networks that only learn from the attributes of entities.
 
 **Topics** 
-1. Large language models and graphs
-2. blah
+1. Generalization performance
+2. Expressive power of graph neural networks
+4. Large language models and graphs
+5. Neural algorithmic reasoning
+6. Generative graph neural networks
+7. Self-supervised learning in graphs
+8. Oversmoothing
+9. Scalability
    
-**Applications** 
-1. blah
-2. blah
+**Tasks** 
+1. Node classification
+3. Link Prediction
+4. Regression
 
 **Architectures**: This seminar-based course will cover seminal work in the space of graph neural networks: 
-1. spectral and spatial convolutional graph neural networks
-2. graph attention networks
-3. invariant and equivariant graph neural networks
-4. general message passing graph neural networks
+1. Spectral and spatial convolutional graph neural networks
+2. Graph attention networks
+3. Invariant and equivariant graph neural networks
+4. General message passing graph neural networks
+5. Higher-order graph neural networks
 
 We will focus on both practical and theoretical aspects of machine learning on graphs. Practical aspects include, scalability and performance on real data. Examples of theoretical questions include: what does convolution do to the input data? Does convolution improve generalization compared to not using a graph? How do multiple convolutions change the data and how do they affect generalization?
 
