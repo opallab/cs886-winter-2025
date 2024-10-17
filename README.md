@@ -33,7 +33,7 @@ This seminar-based course will cover seminal work in the space of graph neural n
 
 We will focus on both practical and theoretical aspects of machine learning on graphs. Practical aspects include, scalability and performance on real data. Examples of theoretical questions include: what does convolution do to the input data? Does convolution improve generalization compared to not using a graph? How do multiple convolutions change the data and how do they affect generalization?
 
-**Course structure:** The seminar is based on weekly student presentations, discussions, hands-on tutorials, a mid-term and a final project. 
+**Course structure:** The seminar is based on weekly student presentations, discussions, hands-on tutorials, a midterm and a final project. 
 
 ## (Tentative) Schedule
 The schedule below is subject to change:
@@ -116,16 +116,16 @@ The schedule below is subject to change:
 
 ## Workload Breakdown
 + Class Participation: 15%
-+ Mid-term Project: 20%
++ Midterm Project: 20%
 + Presentations: 25%
 + Final Project: 40%
 
-## Mid-term Project
+## Midterm Project
 
 This is a 3-page paper, along with (if relevant) the source code of your project, including instructions on how to run it. 
-You may use your mid-term project as a foundation for your final project, which will be 6 pages. Please see the next section below for details.
+You may use your midterm project as a foundation for your final project, which will be 6 pages. Please see the next section below for details.
 
-Options for the mid-term project:
+Options for the midterm project:
 
 + Option A (Empirical evaluation):
 Pick a problem that interests you.
@@ -145,7 +145,7 @@ On the github page, please document exactly how to run your source code.
 
 ## Final Project
 There is one main deliverable of your project, a 6-page paper and (if relevant) the source code of your project 
-with instructions to run your code. Note that you are allowed to use the mid-term project (3 pages) as a foundation
+with instructions to run your code. Note that you are allowed to use the midterm project (3 pages) as a foundation
 for this project.
 
 Options for the final project:
