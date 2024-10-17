@@ -164,6 +164,9 @@ They will be written in the two-column [ICML](https://icml.cc) format, using the
 + Project Source Code: Please put your source code into github and include a link in your project writeup. 
 On the github page, please document exactly how to run your source code.
 
+## Publish Your Project
+Although not required for the course, keep in mind that I am more than happy to help you publish your final project.
+For example, in CS886 2024, Robert Wang published his final project at [NeurIPS 2024](https://nips.cc/virtual/2024/poster/95519).
 
 ## Presentations
 Each student will be doing 2 presentations in the term. Each presentation will be about 40 to 50 minutes long plus questions.
