@@ -102,7 +102,7 @@ The schedule below is subject to change:
 ## Workload Breakdown
 + Class Participation: 15%
 + Mid-term Project: 20%
-+ Presentation: 25%
++ Presentations: 25%
 + Final Project: 40%
 
 ## Paper Reviews
