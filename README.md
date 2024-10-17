@@ -101,9 +101,9 @@ The schedule below is subject to change:
 
 ## Workload Breakdown
 + Class Participation: 15%
-+ Paper Reviews: 20%
++ Mid-term Project: 20%
 + Presentation: 25%
-+ Project: 40%
++ Final Project: 40%
 
 ## Paper Reviews
 After the first 6 seminars, I will require one review per week for one of the papers that have be assigned to that week. If there are more than one papers assigned, you can pick any of 
