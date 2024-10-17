@@ -30,7 +30,7 @@ One of the most prominent and principled ways of handling such multi-modal data 
 
 We will focus on both practical and theoretical aspects of machine learning on graphs. Practical aspects include, scalability and performance on real data. Examples of theoretical questions include: what does convolution do to the input data? Does convolution improve generalization compared to not using a graph? How do multiple convolutions change the data and how do they affect generalization?
 
-**Course structure:** The seminar is based on weekly student presentations, discussions, a mid-term project and a final project. 
+**Course structure:** The seminar is based on weekly student presentations, discussions, hands-on tutorials, a mid-term and a final project. 
 
 ## (Tentative) Schedule
 The schedule below is subject to change:
@@ -115,9 +115,35 @@ The schedule below is subject to change:
 + Presentations: 25%
 + Final Project: 40%
 
+## Mid-term Project
+
+This is a 3-page paper, along with (if relevant) the source code of your project, including instructions on how to run it. 
+You may use your mid-term project as a foundation for your final project, which will be 6 pages. Please see the next section below for details.
+
+Options for the mid-term project:
+
++ Option A (Empirical evaluation):
+Pick a problem that interests you.
+Implement and experiment with several graph neural network methods to tackle this problem.
++ Option B (Method design):
+Identify a problem for which there are no satisfying approaches.
+Develop a new graph neural network architecture to tackle this problem.
+Analyze theoretically and/or empirically the performance of your technique.
++ Option C (Theoretical analysis):
+Identify a problem or a graph neural network architecture for which theoretical performance (e.g., complexity, performance on random data, expressivity) is not well understood. Analyze the properties of this problem or technique.
+
+Information about the project template and the source code is given below.
++ Project Paper: The project papers will be 3 pages. You can have extra pages for the references and the appendix.
+They will be written in the two-column [ICML](https://icml.cc) format, using the ICML template which you can find in the corresponding website.
++ Project Source Code: Please put your source code into github and include a link in your project writeup. 
+On the github page, please document exactly how to run your source code.
+
 ## Final Project
 There is one main deliverable of your project, a 6-page paper and (if relevant) the source code of your project 
-with instructions to run your code. I provide a few options for the projects below:
+with instructions to run your code. Note that you are allowed to use the mid-term project (3 pages) as a foundation
+for this project.
+
+Options for the final project:
 
 + Option A (Empirical evaluation):
 Pick a problem that interests you.
@@ -137,10 +163,15 @@ On the github page, please document exactly how to run your source code.
 
 
 ## Presentations
-Each student will be doing 2 presentations in the term. Each presentation will be about 40 minutes long plus questions.
+Each student will be doing 2 presentations in the term. Each presentation will be about 40 to 50 minutes long plus questions.
 Here are the important points summarizing what you have to do for your presentations.
 
 + You must present with slides. The content in your slides should be your own but you can use others' materials, e.g., 
 figures from the paper we are reading, when necessary and by crediting your source on your slide.
-+ Please have a separate slide for each of 4 questions in the summary item in the Paper Review section.
++ Please have a separate slide, or set of slides, for each of the 4 questions below:  
+  + What is the problem?
+  + Why is it important?
+  + Why don't previous methods work on that problem?
+  + What is the solution to the problem the authors propose?
+  + What interesting research questions does the paper raise?
 + It is very helpful to demonstrate the ideas in the paper through examples. So try to have examples in your presentation.
