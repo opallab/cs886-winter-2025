@@ -105,23 +105,6 @@ The schedule below is subject to change:
 + Presentations: 25%
 + Final Project: 40%
 
-## Paper Reviews
-After the first 6 seminars, I will require one review per week for one of the papers that have be assigned to that week. If there are more than one papers assigned, you can pick any of 
-the assigned papers. You are allowed to skip 2 reviews throughout the term.  The reviews will be 2 pages long (if you need more space take another 0.25 page but try not to). 
-You have to finish your review with one question. The reviews are due at 11:59pm Friday. Submit your review on Crowdmark. Each review has the same weight.
-
-You are expected to answer the following 5 questions and finish your reviews with a
-question that can start a discussion in class:
-
-+ What is the problem?
-+ Why is it important?
-+ Why don't previous methods work on that problem?
-+ What is the solution to the problem the authors propose?
-+ What interesting research questions does the paper raise?
-
-There is no fixed format for the reviews but I recommend: Single column, 1.5 space, 12 pt, in Latex.
-Ultimately, the main thing I am looking for is a demonstration of serious critical reading of the paper.
-
 ## Project Deliverables
 There is one main deliverable of your project, a 6-page paper and (if relevant) the source code of your project 
 with instructions to run your code. I provide a few options for the projects below:
