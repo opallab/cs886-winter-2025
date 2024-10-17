@@ -20,11 +20,6 @@ One of the most prominent and principled ways of handling such multi-modal data 
 7. Self-supervised learning in graphs
 8. Oversmoothing
 9. Scalability
-   
-**Tasks** 
-1. Node classification
-3. Link Prediction
-4. Regression
 
 **Architectures**: This seminar-based course will cover seminal work in the space of graph neural networks: 
 1. Spectral and spatial convolutional graph neural networks
