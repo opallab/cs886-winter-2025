@@ -13,7 +13,7 @@ One of the most prominent and principled ways of handling such multi-modal data 
 
 **Topics** 
 1. Generalization performance of graph neural networks
-2. Expressive power
+2. Expressive power of graph neural networks
 4. Large language models and graphs
 5. Neural algorithmic reasoning
 6. Generative graph neural networks
