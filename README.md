@@ -181,3 +181,24 @@ figures from the paper we are reading, when necessary and by crediting your sour
   + What is the solution to the problem the authors propose?
   + What interesting research questions does the paper raise?
 + It is very helpful to demonstrate the ideas in the paper through examples. So try to have examples in your presentation.
+
+## University of Waterloo Academic Integrity Policy
+The University of Waterloo Senate Undergraduate Council has also approved the following message outlining University of Waterloo policy on academic integrity and associated policies.
+
+## Academic Integrity
+In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected to promote honesty, trust, fairness, respect and responsibility. Check the Office of Academic Integrity's [website](https://uwaterloo.ca/academic-integrity) for more information. All members of the UW community are expected to hold to the highest standard of academic integrity in their studies, teaching, and research. This site explains why academic integrity is important and how students can avoid academic misconduct. It also identifies resources available on campus for students and faculty to help achieve academic integrity in, and our, of the classroom.
+
+## Grievance
+A student who believes that a decision affecting some aspect of his/her university life has been unfair or unreasonable may have grounds for initiating a grievance. Read [Policy 70 - Student Petitions and Grievances, Section 4](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-70). When in doubt please be certain to contact the department's administrative assistant who will provide further assistance.
+
+## Discipline
+A student is expected to know what constitutes academic integrity, to avoid committing academic offenses, and to take responsibility for his/her actions. A student who is unsure whether an action constitutes an offense, or who needs help in learning how to avoid offenses (e.g., plagiarism, cheating) or about “rules” for group work/collaboration should seek guidance from the course professor, academic advisor, or the Undergraduate Associate Dean. For information on categories of offenses and types of penalties, students should refer to [Policy 71-Student Discipline](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71). For typical penalties check [Guidelines for the Assessment of Penalties](https://uwaterloo.ca/secretariat/guidelines/guidelines-assessment-penalties).
+
+## Avoiding Academic Offenses
+Most students are unaware of the line between acceptable and unacceptable academic behaviour, especially when discussing assignments with classmates and using the work of other students. For information on commonly misunderstood academic offenses and how to avoid them, students should refer to the Faculty of Mathematics Cheating and Student Academic Discipline Policy.
+
+## Appeals
+A decision made or a penalty imposed under Policy 70, Student Petitions and Grievances (other than a petition) or Policy 71, Student Discipline may be appealed if there is a ground. A student who believes he/she has a ground for an appeal should refer to [Policy 72 - Student Appeals](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-72).
+
+## Note for students with disabilities
+The AccessAbility Services Office (AAS), located in Needles Hall, Room 1401, collaborates with all academic departments to arrange appropriate accommodations for students with disabilities without compromising the academic integrity of the curriculum. If you require academic accommodations to lessen the impact of your disability, please register with the AAS at the beginning of each academic term.
