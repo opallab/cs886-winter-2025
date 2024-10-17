@@ -105,7 +105,7 @@ The schedule below is subject to change:
 + Presentations: 25%
 + Final Project: 40%
 
-## Project Deliverables
+## Final Project
 There is one main deliverable of your project, a 6-page paper and (if relevant) the source code of your project 
 with instructions to run your code. I provide a few options for the projects below:
 
