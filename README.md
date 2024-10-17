@@ -16,7 +16,7 @@ One of the most prominent and principled ways of handling such multi-modal data 
 2. graph attention networks
 3. invariant and equivariant graph neural networks
 4. general message passing graph neural networks
-5. The intersection of large language models and machine learning on graphs
+5. Large language models and graphs
 
 We will focus on both practical and theoretical aspects of machine learning on graphs. Practical aspects include, scalability and performance on real data. Examples of theoretical questions include: what does convolution do to the input data? Does convolution improve generalization compared to not using a graph? How do multiple convolutions change the data and how do they affect generalization?
 
