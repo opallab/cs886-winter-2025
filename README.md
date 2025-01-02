@@ -171,7 +171,7 @@ Although not required for the course, keep in mind that I am more than happy to 
 For example, in CS886 2024, Robert Wang published his final project at [NeurIPS 2024](https://nips.cc/virtual/2024/poster/95519).
 
 ## Presentations
-Each student will be doing 2 presentations in the term. Each presentation will be about 40 to 50 minutes long plus questions.
+Each student will be doing 2 presentations (estimated number, based on previous years) in the term. Each presentation will be about 40 to 50 minutes long plus questions.
 Here are the important points summarizing what you have to do for your presentations.
 
 + You must present with slides. The content in your slides should be your own but you can use others' materials, e.g., 
