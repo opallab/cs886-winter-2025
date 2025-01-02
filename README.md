@@ -2,8 +2,8 @@
 
 ## Logistics
 + **Instructor:** [Kimon Fountoulakis](https://opallab.ca/team/)
-+ **Seminar Time:** TBA
-+ **Office hours:** TBA
++ **Seminar Time:** Tu/Th 1pm to 2:20pm
++ **Office hours:** Monday 1pm to 2pm.
 
 ## Overview
 
