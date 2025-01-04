@@ -33,7 +33,7 @@ This seminar-based course will cover seminal work in the space of graph neural n
 
 We will focus on both practical and theoretical aspects of machine learning on graphs. Practical aspects include, scalability and performance on real data. Examples of theoretical questions include: what does convolution do to the input data? Does convolution improve generalization compared to not using a graph? How do multiple convolutions change the data and how do they affect generalization?
 
-**Course structure:** The seminar is based on weekly student presentations, discussions, hands-on tutorials, a midterm and a final project. 
+**Course structure:** The seminar is based on weekly student presentations, discussions, a midterm and a final project. 
 
 ## (Tentative) Schedule
 The schedule below is subject to change:
