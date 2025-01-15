@@ -54,17 +54,17 @@ The schedule below is subject to change:
 | 7 | 2/18 | Reading Week |  | | |
 | 7 | 2/20 | Reading Week |  |  |
 | 8 | 2/25 | Oversmoothing Part 2 | - [Not too little, not too much: a theoretical analysis of graph (over)smoothing](https://arxiv.org/abs/2205.12156) <br/> - [Analysis of Corrected Graph Convolutions](https://arxiv.org/abs/2405.13987) |  |
-| 8 | 2/27 | Scalable GNNs Part 1 | - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf) <br/> - [SIGN: Scalable Inception Graph Neural Networks](https://arxiv.org/abs/2004.11198) |  |
-| 9 | 3/4 | Scalable GNNs Part 2 | - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://arxiv.org/abs/1907.04931) <br/> - [Training Graph Neural Networks with 1000 Layers](https://arxiv.org/pdf/2106.07476.pdf) |  | 
+| 8 | 2/27 | Scalable GNNs, Part 1 | - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf) <br/> - [SIGN: Scalable Inception Graph Neural Networks](https://arxiv.org/abs/2004.11198) |  |
+| 9 | 3/4 | Scalable GNNs, Part 2 | - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://arxiv.org/abs/1907.04931) <br/> - [Training Graph Neural Networks with 1000 Layers](https://arxiv.org/pdf/2106.07476.pdf) |  | 
 | 9 | 3/6 | Self-supervised learning in graphs | - [Graph Self-Supervised Learning: A Survey](https://arxiv.org/abs/2103.00111) |  |
 | 10 | 3/11 | Link prediction | - [Link Prediction Based on Graph Neural Networks](https://arxiv.org/pdf/1802.09691.pdf) <br/> - [Line Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/2010.10046.pdf) |  |
-| 10 | 3/13 | GNNs for combinatorial optimization | - [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://proceedings.neurips.cc/paper/2020/file/49f85a9ed090b20c8bed85a5923c669f-Paper.pdf) <br/> - [Simulation of Graph Algorithms with Looped Transformers](https://arxiv.org/abs/2402.01107) | |
-| 11 | 3/18 | GNNs + LLMs, Part 1 | - [Talk like a Graph: Encoding Graphs for Large Language Models](https://arxiv.org/abs/2310.04560) <br/> - [Can Language Models Solve Graph Problems in Natural Language?](https://arxiv.org/abs/2305.10037) |  |
-| 11 | 3/20 | GNNs + LLMs, Part 2 | - [Graph Neural Prompting with Large Language Models](https://arxiv.org/abs/2309.15427) <br/> - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630) |  |
-| 12 | 3/25 | Algorithmic Reasoning, Part 1 | - [What Can Neural Networks Reason About?](https://arxiv.org/abs/1905.13211) <br/> - [Neural Algorithmic Reasoning](https://arxiv.org/abs/2105.02761) |  |
-| 12 | 3/27 | Algorithmic Reasoning, Part 2 | - [Pointer Graph Networks](https://arxiv.org/abs/2006.06380) <br/> - [A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142) | |
-| 12 | 4/1 | Generative GNNs | - [Chapter 11: Graph Neural Networks: Graph Generation](https://graph-neural-networks.github.io/gnnbook_Chapter11.html) | |
-| 13 | 4/3 | ?? | ?? | ?? |
+| 10 | 3/13 | GNNs for combinatorial optimization, Part 1 | - [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://proceedings.neurips.cc/paper/2020/file/49f85a9ed090b20c8bed85a5923c669f-Paper.pdf) <br/> - [Simulation of Graph Algorithms with Looped Transformers](https://arxiv.org/abs/2402.01107) | |
+| 11 | 3/18 | GNNs for combinatorial optimization, Part 2 | [Attention, Learn to Solve Routing Problems!](https://arxiv.org/pdf/1803.08475.pdf) and [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2019/file/d14c2267d848abeb81fd590f371d39bd-Paper.pdf) |  |
+| 11 | 3/20 | GNNs + LLMs, Part 1 | - [Talk like a Graph: Encoding Graphs for Large Language Models](https://arxiv.org/abs/2310.04560) <br/> - [Can Language Models Solve Graph Problems in Natural Language?](https://arxiv.org/abs/2305.10037) |  |
+| 12 | 3/25 | GNNs + LLMs, Part 2 | - [Graph Neural Prompting with Large Language Models](https://arxiv.org/abs/2309.15427) <br/> - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630) |  |
+| 12 | 3/27 | Algorithmic Reasoning, Part 1 | - [What Can Neural Networks Reason About?](https://arxiv.org/abs/1905.13211) <br/> - [Neural Algorithmic Reasoning](https://arxiv.org/abs/2105.02761) |  |
+| 13 | 4/1 | Algorithmic Reasoning, Part 2 | - [Pointer Graph Networks](https://arxiv.org/abs/2006.06380) <br/> - [A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142) | |
+| 13 | 4/3 | Generative GNNs | - [Chapter 11: Graph Neural Networks: Graph Generation](https://graph-neural-networks.github.io/gnnbook_Chapter11.html) | |
 
 
 
