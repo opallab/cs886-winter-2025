@@ -62,7 +62,7 @@ The schedule below is subject to change:
 | 11 | 3/18 | GNNs for combinatorial optimization, Part 2 | - [Attention, Learn to Solve Routing Problems!](https://arxiv.org/pdf/1803.08475.pdf) <br/> - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2019/file/d14c2267d848abeb81fd590f371d39bd-Paper.pdf) |  |
 | 11 | 3/20 | GNNs + LLMs, Part 1 | - [Talk like a Graph: Encoding Graphs for Large Language Models](https://arxiv.org/abs/2310.04560) <br/> - [Can Language Models Solve Graph Problems in Natural Language?](https://arxiv.org/abs/2305.10037) |  |
 | 12 | 3/25 | GNNs + LLMs, Part 2 | - [Graph Neural Prompting with Large Language Models](https://arxiv.org/abs/2309.15427) <br/> - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630) |  |
-| 12 | 3/27 | Algorithmic Reasoning, Part 1 | - ?? <br/> - [Neural Algorithmic Reasoning](https://arxiv.org/abs/2105.02761) |  |
+| 12 | 3/27 | Algorithmic Reasoning, Part 1 | - [Neural Algorithmic Reasoning](https://arxiv.org/abs/2105.02761) <br/> - [Deep Equilibrium Algorithmic Reasoning](https://arxiv.org/abs/2410.15059)|  |
 | 13 | 4/1 | Algorithmic Reasoning, Part 2 | - [Pointer Graph Networks](https://arxiv.org/abs/2006.06380) <br/> - [A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142) | |
 | 13 | 4/3 | Generative GNNs | - [Chapter 11: Graph Neural Networks: Graph Generation](https://graph-neural-networks.github.io/gnnbook_Chapter11.html) | |
 
