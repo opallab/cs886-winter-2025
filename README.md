@@ -64,7 +64,7 @@ The schedule below is subject to change:
 | 12 | 3/25 | GNNs + LLMs, Part 2 | - [Graph Neural Prompting with Large Language Models](https://arxiv.org/abs/2309.15427) <br/> - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630) | [Slides](https://github.com/opallab/cs886-winter-2025/blob/main/graph_neural_network_prompting_with_large_language_models.pdf), [Slides](https://github.com/opallab/cs886-winter-2025/blob/main/g_retriever.pdf) |
 | 12 | 3/27 | Algorithmic Reasoning, Part 1 | - [Neural Algorithmic Reasoning](https://arxiv.org/abs/2105.02761) and [A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142) <br/> - [Deep Equilibrium Algorithmic Reasoning](https://arxiv.org/abs/2410.15059) | [Slides](https://github.com/opallab/cs886-winter-2025/blob/main/NeuralAlgorithmicReasoningAGeneralistNeuralAlgorithmicLearner.pdf), [Slides](https://github.com/opallab/cs886-winter-2025/blob/main/deep_equilibrium_algorithmic_reasoning.pptx) |
 | 13 | 4/1 | Algorithmic Reasoning, Part 2 | - [Pointer Graph Networks](https://arxiv.org/abs/2006.06380) <br/> - [Relational Attention: Generalizing Transformers for Graph-Structured Tasks](https://arxiv.org/abs/2210.05062) | |
-| 13 | 4/3 | Generative GNNs | - [Chapter 11: Graph Neural Networks: Graph Generation](https://graph-neural-networks.github.io/gnnbook_Chapter11.html) | |
+| 13 | 4/3 | GNNs + LLMs, Part 3 | - [A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011) | |
 
 
 
